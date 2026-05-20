@@ -23,7 +23,7 @@ export default function Women() {
           </button>
 
           <button className="border border-pink-300 text-pink-500 hover:bg-pink-50 transition-all duration-300 px-6 py-3 rounded-xl font-medium">
-            Explore
+            find
           </button>
         </div>
 
