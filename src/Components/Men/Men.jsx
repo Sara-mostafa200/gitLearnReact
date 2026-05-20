@@ -1,7 +1,7 @@
-import React from 'react'
-
 export default function Men() {
   return (
-    <div>Men</div>
-  )
+    <div>
+      <h1>new Update for men category</h1>
+    </div>
+  );
 }
