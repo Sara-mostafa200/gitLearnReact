@@ -1,7 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export default function Home() {
   return (
-    <div>Home</div>
-  )
+    <div>
+      <h1 className="text-blue-50">Nourhan</h1>
+    </div>
+  );
 }
