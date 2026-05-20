@@ -1,7 +1,7 @@
-import React from 'react'
-
 export default function Home() {
-  return (
-    <div>Home</div>
-  )
+    return (
+        <>
+            <h1 className="text-center text-blue-200 text-3xl">Gehad Atef</h1>
+        </>
+    );
 }
