@@ -27,9 +27,6 @@ export default function Women() {
           </button>
         </div>
 
-        <div className="mt-10 text-5xl">
-          ❤️ 🥰 ✨ 👗
-        </div>
       </div>
     </section>
   );
