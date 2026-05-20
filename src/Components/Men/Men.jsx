@@ -1,7 +1,11 @@
-import React from 'react'
-
 export default function Men() {
   return (
-    <div>Men</div>
-  )
+    <section className="men-category">
+      <header>
+        <h1>Men's Category</h1>
+      </header>
+
+      <p>Latest updates and products for men’s fashion category.</p>
+    </section>
+  );
 }
