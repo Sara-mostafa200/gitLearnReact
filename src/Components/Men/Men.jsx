@@ -1,7 +1,11 @@
 export default function Men() {
   return (
-    <div>
-      <h1>New update for men category</h1>
-    </div>
+    <section className="men-category">
+      <header>
+        <h1>Men's Category</h1>
+      </header>
+
+      <p>Latest updates and products for men’s fashion category.</p>
+    </section>
   );
 }
